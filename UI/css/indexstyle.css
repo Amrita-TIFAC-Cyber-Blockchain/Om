@@ -1,0 +1,60 @@
+*,
+      *::after,
+      *::before {
+        margin: 0;
+        padding: 0;
+        box-sizing: inherit;
+      }
+      .html {
+        font-size: 50%;
+      }
+
+      .container {
+        width: 25rem;
+        height: 100%;
+        margin: 0 1rem;
+        position: relative;
+      }
+      .searchbar {
+        font-size: 2.4rem;
+        width: 25rem;
+        border: none;
+        outline: none;
+        border-radius: 10rem;
+        padding: 2rem;
+        transition: all .1s;
+        transition-delay: .1s;
+        border: 2px solid #00ff00;
+        color: white;
+        height: 3rem;}
+
+      .searchbar:hover {
+        width: 32rem;
+height: 5rem;
+      }
+      .button1 {
+        height: 2rem;
+        position: absolute;
+        top: 1.5rem;
+        right: 1rem;
+        transition: all .1s;
+        transition-delay: .1s;
+        margin-top: -5px;  
+      }
+      .button1:hover {
+        cursor: pointer;
+      }
+      .searchbar:hover + .button1 {
+        height: 2.5rem;
+        top: 1.8rem;
+        right: 0;
+      }
+      .searchbar::placeholder {
+        opacity: .3;
+      }
+      .p1{
+        color: white;
+        font-size: 60px;
+        margin-top: 100px;
+        font-weight: bolder;
+      }
