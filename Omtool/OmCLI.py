@@ -1,14 +1,29 @@
+# -*- coding: utf-8 -*-
+
+'''
+Om - OSINT me 
+
+To perform individual search using unique identifiers like Phone Number, Usernames, Email IDs and 
+UPI address.
+
+This is specifically customized for TN Police Hackathon 2022.
+
+Tool Developed by Team ModSouls, TIFAC-CORE in Cyber Security, Amrita Vishwa Vidyapeetham, Coimbatore.
+
+'''
+
 import os
+import subprocess
 import time
 import sys
-from colorama import Fore
 import socket
 import requests
 import argparse
 import utils.twitter_scraping
-from utils import search_realname, search_username, ig_scrape, whois_lookup, webhook_spammer, ip_scanner, ip_lookup, \
-    phonenumber_lookup, websearch, smsbomber, tokenlogger_generator, twitter_scraping
-
+from utils import (search_realname, search_username, ig_scrape, whois_lookup, webhook_spammer, 
+ip_scanner, ip_lookup, phonenumber_lookup, websearch, smsbomber, tokenlogger_generator, 
+twitter_scraping)
+from colorama import Fore
 
 if os.name == "nt":
     os.system("cls")
