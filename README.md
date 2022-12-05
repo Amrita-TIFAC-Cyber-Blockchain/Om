@@ -23,11 +23,11 @@ involves collecting data from public and open sources for intelligence purposes.
 - [Vishnu K](https://github.com/vexecute)
 
 ## Deadlines
-- Abstract submission: 30th November 2022
-- Intimation of selected abstract: 2nd December 2022
-- Online presentation: 5th December 2022
-- Intimation of results of online presentation: 6th December 2022
-- Final hackathon: 9th and 10th December 2022
+- ![](https://img.shields.io/badge/-Completed-brightgreen) Abstract Submission: 30th November 2022
+- ![](https://img.shields.io/badge/-Completed-brightgreen) Intimation of Selected Abstract: 2nd December 2022 ![](https://img.shields.io/badge/-Selected-darkgreen)
+- ![](https://img.shields.io/badge/-Completed-brightgreen) Online Presentation: 5th December 2022
+- Intimation of Results of Online Presentation: 6th December 2022
+- Final Hackathon: 9th and 10th December 2022
 
 ## Submission
 - Proof of Concept
@@ -35,6 +35,12 @@ involves collecting data from public and open sources for intelligence purposes.
 - Innovation
 - Feasibility of the Solution
 
+## Proposed System
+
+[Click Here](Om.md) to view our solution documentation. <br/>
 [Click Here](UI/index.html) to view the Page.
 
 ## References
+
+- [H4X-Tools](https://github.com/V1li/H4X-Tools)
+- [UPI-INT](https://github.com/BiswajeetRay7/UPI-INT)
