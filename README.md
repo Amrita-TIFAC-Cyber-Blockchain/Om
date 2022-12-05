@@ -37,7 +37,7 @@ involves collecting data from public and open sources for intelligence purposes.
 
 ## Proposed System
 
-[Click Here](Om.md) to view our solution documentation. <br/>
+[Click Here](Om) to view our solution documentation. <br/>
 [Click Here](UI/index.html) to view the Page.
 
 ## References
