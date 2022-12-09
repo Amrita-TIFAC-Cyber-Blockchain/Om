@@ -4,6 +4,14 @@
     <meta charset="utf-8" />
     
     <style>
+     .header {
+     padding: 60px;
+     width: 100%;
+     background-color: red;
+     color: white;
+     text-align: center;
+    }  
+      
     .footer {
      position: fixed;
      left: 0;
@@ -14,16 +22,16 @@
      text-align: center;
     }
 </style>
-
+    
     <title>Om Dashboard</title>
 
-    <link rel="icon" type="image/png" href="favicon.png" />
+    <link rel="icon" type="image/png" href="../Assets/images/Om_Logo.png" />
     <link rel="stylesheet" href="https://pyscript.net/latest/pyscript.css" />
 
     <script defer src="https://pyscript.net/latest/pyscript.js"></script>
     <py-config>
         paths = [
-          "numpy"
+          
      ]
     </py-config>
     <py-register-widget src="./utils/pylist.py" name="py-list" klass="PyList"></py-register-widget>
@@ -38,8 +46,12 @@
   </head>
 
   <body>
-     <script type="text/javascript" src="https://combinatronics.com/datopian/dashboard-js/master/build/static/js/main.js"></script>
-      <py-title>Om Dashboard</py-title>
+      <script type="text/javascript" src="https://combinatronics.com/datopian/dashboard-js/master/build/static/js/main.js"></script>
+      <header>
+         <div class="header">
+            <py-title>Om Dashboard</py-title>
+        </div>
+      </header>
       <p text-align="center">
        OSINT me (Om) tool is a open-source OSINT tool developed with the aim to help law enforcement agencies, common public to gather intelligence.  
       </p>
