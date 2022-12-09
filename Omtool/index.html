@@ -19,9 +19,8 @@
     <py-script>
       def perform_search(*ags, **kws):
         print ("Test")
-        # create a new dictionary representing the new task
-        task = { "content": search-query.value,  "done": False, "created_at": dt.now() }
 
+        query = { "content": search-query.value }
 
     </py-script>
   </head>
@@ -35,7 +34,7 @@
             if (e.code == "Enter"):
               perform_search()
         </py-inputbox>
-        <py-button id="new-task-btn" label="Add Task!">
+        <py-button id="new-task-btn" label="OSIT me!">
           def on_click(evt):
             perform_search()
         </py-button>
