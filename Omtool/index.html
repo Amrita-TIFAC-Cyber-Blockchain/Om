@@ -38,10 +38,8 @@
     <py-register-widget src="./utils/pylist.py" name="py-list" klass="PyList"></py-register-widget>
 
     <py-script>
-      def perform_search(*ags, **kws):
+      def search(*ags, **kws):
         print ("Test")
-
-        query = { "content": search-query.value }
 
     </py-script>
   </head>
@@ -60,11 +58,11 @@
       <py-inputbox id="search-query">
           def on_keypress(e):
             if (e.code == "Enter"):
-              perform_search()
+              search()
         </py-inputbox>
-        <py-button id="new-task-btn" label="OSIT me!">
+        <py-button id="new-task-btn" label="OSINT me!">
           def on_click(evt):
-            perform_search()
+            search()
         </py-button>
       <py-list id="myList"></py-list>
       </py-box>
