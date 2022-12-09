@@ -32,14 +32,14 @@
     <script defer src="https://pyscript.net/latest/pyscript.js"></script>
     <py-config>
         paths = [
-         ./OmCLI.py 
+         ./subtools/search_query.py 
      ]
     </py-config>
     <py-register-widget src="./utils/pylist.py" name="py-list" klass="PyList"></py-register-widget>
 
     <py-script>
       def search(*ags, **kws):
-        print ("Test")
+        print (document.getElementById("search-query").value)
 
     </py-script>
   </head>
