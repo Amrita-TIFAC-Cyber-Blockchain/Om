@@ -4,6 +4,15 @@
     <meta charset="utf-8" />
     
     <style>
+            #blink {
+                font-size: 20px;
+                font-weight: bold;
+                color: #2d38be;
+                transition: 0.5s;
+            }
+     </style>
+    
+    <style>
      .header {
      padding: 0px;
      width: 100%;
@@ -23,6 +32,14 @@
     }
       
 </style>
+    
+      <script type="text/javascript">
+            var blink = document.getElementById('blink');
+            setInterval(function() {
+                blink.style.opacity = (blink.style.opacity == 0 ? 1 : 0);
+            }, 1500);
+        </script>
+    </b
     
     <title>Om Dashboard</title>
 
@@ -65,6 +82,7 @@
             search()
         </py-button>
       <py-list id="myList"></py-list>
+        <p id="blink"> <script> document.getElementById("search-query").value </script> </p>
       </py-box>
       
       <py-repl id="my-repl" auto-generate="true"> </py-repl>
