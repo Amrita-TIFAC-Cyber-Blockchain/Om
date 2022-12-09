@@ -5,7 +5,12 @@
 ## Architecture
 
 <p align="center">
-  <img src="Assets/images/Om_Architecture.png" width="880"/>
+  <img src="Assets/images/Om_Architecture_v2.png" width="880"/>
 </p>
 
 ## Features 
+
+- Recursive Search
+- Scheduled Search
+- Periodic Search
+- Recorded Search
