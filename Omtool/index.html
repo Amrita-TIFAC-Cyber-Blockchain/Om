@@ -63,6 +63,7 @@
     #Username {background-color: white; color: black;}
     #Phonenumber {background-color: white; color: black;}
     #Twitter {background-color: white; color: black;}
+    #ViewLogger {background-color: white; color: black;}
 
 </style>
     
@@ -93,6 +94,22 @@
         // Get the element with id="defaultOpen" and click on it
         document.getElementById("defaultOpen").click();
       
+      
+      function init() {
+            document.getElementById('fileInput').addEventListener('change', handleFileSelect, false);
+        }
+
+        function handleFileSelect(event) {
+          const reader = new FileReader()
+          reader.onload = handleFileLoad;
+          reader.readAsText(event.target.files[0])
+        }
+
+        function handleFileLoad(event) {
+          console.log(event);
+          document.getElementById('fileContent').textContent = event.target.result;
+        }
+      
     </script>
     
     <title>Om Dashboard</title>
@@ -115,7 +132,7 @@
     </py-script>
   </head>
 
-  <body>
+  <body onload="init()">
       <script type="text/javascript" src="https://combinatronics.com/datopian/dashboard-js/master/build/static/js/main.js"></script>
       <header>
          <div class="header">
@@ -142,8 +159,9 @@
       </py-box>
     
       <button class="tablink" onclick="openPage('Username', this, 'red')">User Names</button>
-      <button class="tablink" onclick="openPage('Phonenumber', this, 'red')">Phone Number</button>
-      <button class="tablink" onclick="openPage('Twitter', this, 'green')" id="defaultOpen">Twitter</button>
+      <button class="tablink" onclick="openPage('Phonenumber', this, 'red')" id="defaultOpen">Phone Number</button>
+      <button class="tablink" onclick="openPage('Twitter', this, 'green')" >Twitter</button>
+      <button class="tablink" onclick="openPage('ViewLogger', this, 'green')" id="defaultOpen">View Logger</button>
     
       <div id="Username" class="tabcontent">
       <p class="blink"> ramaguru radhakrishnan </p>
@@ -383,7 +401,13 @@
       <p>
      </div>
   
-  
+      <div id="ViewLogger" class="tabcontent">
+ 
+        <input id="fileInput" type="file" name="file" />
+        <pre id="fileContent"></pre>
+        
+      </div>
+ 
       <py-repl id="my-repl" auto-generate="true"> </py-repl>
       <footer>
           <p text-align="center">
