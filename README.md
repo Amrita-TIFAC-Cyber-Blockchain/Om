@@ -1,6 +1,6 @@
 # Om ![](https://img.shields.io/badge/-Live-brightgreen)
-![](https://img.shields.io/badge/Batch-21CYS-lightgreen) ![](https://img.shields.io/badge/Focus-OSINT-purple) ![](https://img.shields.io/badge/UG-blue)  ![](https://img.shields.io/badge/2022-blue)![](https://img.shields.io/badge/Hackathon-Police-darkred) <br/>
-![](https://img.shields.io/badge/Tool-H4X-purple) ![](https://img.shields.io/badge/Tool-UPI_INT-purple)
+![](https://img.shields.io/badge/Batch-21CYS-lightgreen) ![](https://img.shields.io/badge/Focus-OSINT-purple) ![](https://img.shields.io/badge/UG-blue)  ![](https://img.shields.io/badge/2022-blue) ![](https://img.shields.io/badge/Hackathon-Police-darkred) <br/>
+![](https://img.shields.io/badge/Tool-H4X-purple) ![](https://img.shields.io/badge/Tool-UPI_OSINT-purple) ![](https://img.shields.io/badge/Tool-IPQS-purple)
 
 ## Problem Statement
 
@@ -20,19 +20,23 @@ The internet has an ocean of data that is free and available to everyone. These 
 - [Kishore M](https://github.com/kishoreraiden)
 - [Vinayak R](https://github.com/vinai04)
 - [Alooysius Vitalian J](https://github.com/vitalian2021)
+- ![](https://img.shields.io/badge/-Mentor-purple)[Ramaguru Radhakrishnan](https://github.com/ramagururadhakrishnan)
 
 ## Deadlines
-- ![](https://img.shields.io/badge/-Completed-brightgreen) **Abstract Submission:** 30th November 2022
+- ![](https://img.shields.io/badge/-Completed-brightgreen) **Abstract Submission:** 30th November 2022 ![](https://img.shields.io/badge/Total_Submissions-468-orange)
 - ![](https://img.shields.io/badge/-Completed-brightgreen) **Intimation of Selected Abstract:** 2nd December 2022 ![](https://img.shields.io/badge/-Selected-darkgreen)
-- ![](https://img.shields.io/badge/-Completed-brightgreen) **Online Presentation:** 5th December 2022 
+- ![](https://img.shields.io/badge/-Completed-brightgreen) **Online Presentation:** 5th December 2022 ![](https://img.shields.io/badge/Total_Teams-59-orange)
+  - Methodology
+  - Innovation
+  - Feasibility of the Solution
+  - Proof of Concept
+  - Demo
 - ![](https://img.shields.io/badge/-Completed-brightgreen) **Intimation of Results of Online Presentation:** 6th December 2022  ![](https://img.shields.io/badge/-Selected-darkgreen)
-- **Final Hackathon:** 9th and 10th December 2022
-
-### Submission
-- Methodology
-- Innovation
-- Feasibility of the Solution
-- Proof of Concept
+- **Final Hackathon:** 9th and 10th December 2022 ![](https://img.shields.io/badge/Total_Teams-15-orange)
+  - Design and Technical Aspects - 15 Marks
+  - Innovation - 15 Marks
+  - Feasibility of the Solution - 10 Marks
+  - Presentation - 10 Marks
 
 ## Proposed System
 
@@ -42,4 +46,5 @@ The internet has an ocean of data that is free and available to everyone. These 
 ## References
 
 - [H4X-Tools](https://github.com/V1li/H4X-Tools)
-- [UPI-INT](https://github.com/BiswajeetRay7/UPI-INT)
+- [UPI OSINT](https://github.com/d4rkh0rse/upi_osint)
+- [IPQualityScore](https://www.ipqualityscore.com/)
