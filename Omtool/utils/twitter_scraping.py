@@ -15,7 +15,7 @@ def scraping_options():
     print("[1] Scraping a specific profile")
     print("[2] Scraping tweets based on text")
     print("[3] Scraping tweets from a specific user")
-    print("[4] Go Back to Menu ")
+
     option = input("\nEnter your option (1,2,3 or 4): \t")
 
     if option == "1":
@@ -24,8 +24,6 @@ def scraping_options():
         scraping_tweets_based_on_query()
     elif option == "3":
         scraping_tweets_from_a_specific_user()
-    elif option == "4":
-        pass
     else:
         print(Fore.RED + "Invalid Option! Going back to the main menu")
         time.sleep(1)

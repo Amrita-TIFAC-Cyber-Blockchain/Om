@@ -13,6 +13,10 @@ from utils import search_realname, search_username, ig_scrape, whois_lookup, web
 from subtools import omuser_search
 
 def omupi_search(target):
+    print("\n")
+    print("*********************************************************************************************************\n")
+    print("**************************************      UPI   *******************************************************\n")
+    print("*********************************************************************************************************\n")
     target
     main_url = 'https://upibankvalidator.com/api/upiValidation?upi='
     upi_ids = ['apl','oksbi','okhdfcbank','sbi','okicici','axisbank','ikwik','pnb','hdfc','idfcbank','okaxis','abfspay','ybl','barodampay','upi','paytm','yapl','dbs','yesbankltd','utbi','united','ubi','rajgovhdfcbank','pockets','payzapp'
@@ -23,16 +27,20 @@ def omupi_search(target):
         if target.find('@')!=-1:
             response = requests.post(main_url+target).json()
             if response['isUpiRegistered']:
-                print(f"{Fore.BLUE}✅ UPI Holder Name: {response['name']}",f"| UPI platform: {target.partition('@')[2]}")
+                print(f"{Fore.BLUE}[✓] UPI Holder Name: {response['name']}",f"| UPI platform: {target.partition('@')[2]}")
+                # logging.info("[✓] UPI Holder Name: {response['name']}",f"| UPI platform: {target.partition('@')[2]}")
             else:
-                print(f"{Fore.WHITE}❌ Invalid UPI Not found in",i)
+                print(f"{Fore.RED}[x] {Fore.WHITE} Invalid UPI Not found in",i)
+                # logging.info("[x]Invalid UPI Not found in",i)
         else:
             for i in upi_ids:
                 response = requests.post(main_url+target+'@'+i).json()
                 if response['isUpiRegistered']:
                             # print('found')
-                    print(f"{Fore.GREEN}✅ UPI Holder Name: {Fore.RED}{response['name']}",f"| UPI platform: {i}")
+                    print(f"{Fore.GREEN}[✓] UPI Holder Name: {Fore.RED}{response['name']}",f"| UPI platform: {i}")
+                    # logging.info("[✓] UPI Holder Name: {response['name']}",f"| UPI platform: {target.partition('@')[2]}")
                 else:
                                         # print(Fore.RED)
                                         # print('Invalid UPI Not found in',i)  
-                    print(f"{Fore.WHITE}❌ Invalid UPI Not found in",i)
+                    print(f"{Fore.RED}[x] {Fore.WHITE}Invalid UPI Not found in",i)
+                    # logging.info("Validity :"  + phone_details['message'])

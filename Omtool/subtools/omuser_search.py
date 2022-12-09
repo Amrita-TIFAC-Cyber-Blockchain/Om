@@ -12,8 +12,11 @@ from utils import search_realname, search_username, ig_scrape, whois_lookup, web
     phonenumber_lookup, websearch, smsbomber, tokenlogger_generator, twitter_scraping
 from subtools import omuser_search
 
-def omuser_search():
-    query = str(input("Search query : \t"))
+def omuser_search(query):
+    print("\n")
+    print("*********************************************************************************************************\n")
+    print("**************************************  UserName  *******************************************************\n")
+    print("*********************************************************************************************************\n")
     websearch.Search(query)
     username = query.replace(" ", "_")
     print("\n")
