@@ -35,6 +35,34 @@
         }nsition: 0.5s;
      }
       
+          /* Style tab links */
+    .tablink {
+      background-color: #555;
+      color: white;
+      float: left;
+      border: none;
+      outline: none;
+      cursor: pointer;
+      padding: 14px 16px;
+      font-size: 17px;
+      width: 25%;
+    }
+
+    .tablink:hover {
+      background-color: #777;
+    }
+
+    /* Style the tab content (and add height:100% for full page content) */
+    .tabcontent {
+      color: white;
+      display: none;
+      padding: 100px 20px;
+      height: 100%;
+    }
+
+    #Phonenumber {background-color: red;}
+    #Twitter {background-color: green;}
+
 </style>
     
     <title>Om Dashboard</title>
@@ -64,6 +92,10 @@
            <img src="../Assets/images/Om_Logo.png" width="100"/> <h3> Om Dashboard </h3>
         </div>
       </header>
+    
+      <button class="tablink" onclick="openPage('Phonenumber', this, 'red')" id='defaultOpen'>Phone Number</button>
+      <button class="tablink" onclick="openPage('Twitter', this, 'green')" id="defaultOpen">Twitter</button>
+    
       <p align="center">
        OSINT me (Om) tool is a open-source OSINT tool developed with the aim to help law enforcement agencies, common public to gather intelligence.  
       </p>
@@ -79,7 +111,10 @@
         </py-button>
       <py-list id="myList"></py-list>
        
+     
       </py-box>
+    
+      <div id="Phonenumber" class="tabcontent">
       <p class="blink"> 9786888837 </p>
       
       <p>
@@ -171,8 +206,91 @@
         [x] Invalid UPI Not found in aubank <br/>
         [x] Invalid UPI Not found in allbank <br/>
     </p>
-    
     <br/> <br/> <br/> 
+    </div>
+  
+     <div id="Twitter" class="tabcontent">
+      <p class="blink"> varisu </p>
+       
+       <b> Tweet No:1 </b> <br/>
+      [🔹]Posted by: RajaVj16 <br/>
+      [🔹]Content: Can't control myself...After hearing this🥵☃️💞 <br/>
+      Lots of love from #Thalapathy fan❤️
+      #Varisu #Thunivu 
+      @GhibranOfficial @VaisaghOfficial @BoneyKapoor @BayViewProjOffl @LycaProductions @RedGiantMovies_ #ChillaChilla #Ajithkumar #HVinoth @zeemusicsouth @ZeeStudios_ @SureshChandraa https://t.co/Sivi5Ngv2E
+      [🔹]Posted on: 2022-12-09 19:19:32+00:00
+      [🔹]Tweet URL: https://twitter.com/RajaVj16/status/1601295500715515904 <br/><br/>
+
+
+       <b> Tweet No:2 </b> <br/>
+      [🔹]Posted by: Google35719318 <br/>
+      [🔹]Content: @gowri_gal @Ayyappan_1504 Illenga madam neenga romba over a ajith fans ku muttu kudukuringale 
+      Ethavathu heavy ya antha side la irunthu kedaikutha https://t.co/5MHys1SNJz <br/>
+      [🔹]Posted on: 2022-12-09 19:19:14+00:00 <br/>
+      [🔹]Tweet URL: https://twitter.com/Google35719318/status/1601295422861234176 <br/><br/>
+
+
+       <b> Tweet No:3 </b> <br/>
+      [🔹]Posted by: Kathiresan_1995 <br/>
+      [🔹]Content: THEE ithu THALAPATHY 🔥 
+      #Beast @actorvijay #Varisu ICYCLE https://t.co/TbxGwOK2Z2 <br/>
+      [🔹]Posted on: 2022-12-09 19:18:03+00:00 <br/>
+      [🔹]Tweet URL: https://twitter.com/Kathiresan_1995/status/1601295125623504897 <br/><br/>
+
+
+       <b> Tweet No:4 </b> <br/>
+      [🔹]Posted by: BillyBut1996 <br/>
+      [🔹]Content: @Vijayku61922264 @Dharsha__AK Azhuvaadha 🤣🤣😂🤣🤡🐢 <br/>
+      [🔹]Posted on: 2022-12-09 19:17:24+00:00 <br/>
+      [🔹]Tweet URL: https://twitter.com/BillyBut1996/status/1601294964411240449 <br/><br/>
+
+
+       <b> Tweet No:5 </b> <br/>
+      [🔹]Posted by: Marsh_Mello___ <br/>
+      [🔹]Content: Online friends RT here!! 😉🔥 <br/>
+      @actorvijay #Varisu #Beast
+      [🔹]Posted on: 2022-12-09 19:17:08+00:00 <br/>
+      [🔹]Tweet URL: https://twitter.com/Marsh_Mello___/status/1601294896840970241 <br/><br/>
+
+
+       <b> Tweet No:6  </b><br/>
+      [🔹]Posted by: BillyBut1996 <br/>
+      [🔹]Content: @ValuBoy_ Content kumaaru 🤡🤣🤣😂🐢 <br/>
+      [🔹]Posted on: 2022-12-09 19:16:30+00:00 <br/>
+      [🔹]Tweet URL: https://twitter.com/BillyBut1996/status/1601294738292109313 <br/><br/>
+
+
+       <b> Tweet No:7 </b> <br/>
+      [🔹]Posted by: Krishnan2594 <br/>
+      [🔹]Content: @MusicThaman getting appreciated for #Varisu but many don't know this underrated song which is best in his career @AlluSirish #Gouravam @Radhamohan_Dir https://t.co/9Kauvrenuu <br/>
+      [🔹]Posted on: 2022-12-09 19:15:56+00:00 <br/>
+      [🔹]Tweet URL: https://twitter.com/Krishnan2594/status/1601294595396337664 <br/><br/>
+
+
+       <b> Tweet No:8  </b> <br/>
+      [🔹]Posted by: imrk_official_ <br/>
+      [🔹]Content: Friendship Goals 😍 #Varisu @actorvijay #Thunivu https://t.co/zKwVWUduoN <br/>
+      [🔹]Posted on: 2022-12-09 19:14:09+00:00 <br/>
+      [🔹]Tweet URL: https://twitter.com/imrk_official_/status/1601294143359049728 <br/><br/>
+
+
+       <b> Tweet No:9 </b> <br/>
+      [🔹]Posted by: girigir85321342 <br/>
+      [🔹]Content: சும்மா இருங்கப்பா இப்பவும் அதான் எப்பவும் அதான்...
+      #Varisu @David_Bilaaaaa https://t.co/9UtGstgJvZ https://t.co/87cJhOZ877 <br/>
+      [🔹]Posted on: 2022-12-09 19:13:56+00:00 <br/>
+      [🔹]Tweet URL: https://twitter.com/girigir85321342/status/1601294092520288261 <br/><br/>
+
+
+       <b> Tweet No:10 </b> <br/>
+      [🔹]Posted by: BillyBut1996 <br/>
+      [🔹]Content: @ajithAKthala Semaaa content today thanks ra 🤡🤣🤣😂😂😂🐢 <br/>
+      [🔹]Posted on: 2022-12-09 19:13:19+00:00 <br/>
+      [🔹]Tweet URL: https://twitter.com/BillyBut1996/status/1601293937473630210 <br/><br/>
+      <p>
+     </div>
+  
+  
       <py-repl id="my-repl" auto-generate="true"> </py-repl>
       <footer>
           <p text-align="center">
