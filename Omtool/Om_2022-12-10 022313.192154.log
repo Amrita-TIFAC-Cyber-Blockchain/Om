@@ -1,0 +1,18 @@
+2022-12-10 02:23:16,185 INFO INFO: The option seclected is 4
+2022-12-10 02:23:19,023 INFO INFO: The search type is e
+2022-12-10 02:23:24,927 INFO Retrieving guest token
+2022-12-10 02:23:24,931 INFO Retrieving https://twitter.com/ramaguru
+2022-12-10 02:23:24,931 DEBUG ... with headers: {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.8996 Safari/537.8'}
+2022-12-10 02:23:24,932 DEBUG Starting new HTTPS connection (1): twitter.com:443
+2022-12-10 02:23:25,945 DEBUG https://twitter.com:443 "GET /ramaguru HTTP/1.1" 200 None
+2022-12-10 02:23:26,172 INFO Retrieved https://twitter.com/ramaguru: 200
+2022-12-10 02:23:26,173 DEBUG https://twitter.com/ramaguru retrieved successfully
+2022-12-10 02:23:26,174 DEBUG Found guest token in HTML
+2022-12-10 02:23:26,174 DEBUG Using guest token 1601319128387579904
+2022-12-10 02:23:26,175 DEBUG Using guest token 1601319128387579904
+2022-12-10 02:23:26,176 INFO Retrieving https://api.twitter.com/graphql/-xfUfZsnR_zqjFd-IfrN5A/UserByScreenName?variables=%7B%22screen_name%22%3A%22ramaguru%22%2C%22withHighlightedLabel%22%3Atrue%7D
+2022-12-10 02:23:26,176 DEBUG ... with headers: {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.8996 Safari/537.8', 'Authorization': 'Bearer AAAAAAAAAAAAAAAAAAAAANRILgAAAAAAnNwIzUejRCOuH5E6I8xnZz4puTs=1Zv7ttfk8LF81IUq16cHjhLTvJu4FA33AGWWjCpTnA', 'Referer': 'https://twitter.com/search?f=live&lang=en&q=from%3Aramaguru&src=spelling_expansion_revert_click', 'Accept-Language': 'en-US,en;q=0.5', 'x-guest-token': '1601319128387579904'}
+2022-12-10 02:23:26,177 DEBUG Starting new HTTPS connection (1): api.twitter.com:443
+2022-12-10 02:23:26,963 DEBUG https://api.twitter.com:443 "GET /graphql/-xfUfZsnR_zqjFd-IfrN5A/UserByScreenName?variables=%7B%22screen_name%22%3A%22ramaguru%22%2C%22withHighlightedLabel%22%3Atrue%7D HTTP/1.1" 200 976
+2022-12-10 02:23:26,965 INFO Retrieved https://api.twitter.com/graphql/-xfUfZsnR_zqjFd-IfrN5A/UserByScreenName?variables=%7B%22screen_name%22%3A%22ramaguru%22%2C%22withHighlightedLabel%22%3Atrue%7D: 200
+2022-12-10 02:23:26,965 DEBUG https://api.twitter.com/graphql/-xfUfZsnR_zqjFd-IfrN5A/UserByScreenName?variables=%7B%22screen_name%22%3A%22ramaguru%22%2C%22withHighlightedLabel%22%3Atrue%7D retrieved successfully

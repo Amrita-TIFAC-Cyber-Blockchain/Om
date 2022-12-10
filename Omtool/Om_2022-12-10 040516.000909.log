@@ -1,0 +1,74 @@
+2022-12-10 04:05:17,863 INFO INFO: The option seclected is 4
+2022-12-10 04:05:22,275 INFO INFO: The search type is b
+2022-12-10 04:05:28,112 DEBUG Starting new HTTPS connection (1): ipqualityscore.com:443
+2022-12-10 04:05:29,047 DEBUG https://ipqualityscore.com:443 "POST /api/json/phone/3xCII0XTawnHlluREioX4XIhIgaH4NQ2/+919150871411 HTTP/1.1" 200 None
+2022-12-10 04:05:29,054 INFO Validity :Phone is valid.
+2022-12-10 04:05:29,054 INFO Fraud Score : 0
+2022-12-10 04:05:29,054 INFO Recent Abuse: False
+2022-12-10 04:05:29,054 INFO Name : N/A
+2022-12-10 04:05:29,054 INFO Time Zone: Asia/Kolkata
+2022-12-10 04:05:29,054 INFO Carrier: Bharti Airtel
+2022-12-10 04:05:29,054 INFO City :Tamil Nadu
+2022-12-10 04:05:29,054 INFO Leaked : False
+2022-12-10 04:05:29,054 INFO Spammer : False
+2022-12-10 04:05:29,382 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 04:05:32,498 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=9150871411@apl HTTP/1.1" 200 None
+2022-12-10 04:05:32,507 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 04:05:34,956 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=9150871411@oksbi HTTP/1.1" 200 None
+2022-12-10 04:05:34,964 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 04:05:38,740 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=9150871411@okhdfcbank HTTP/1.1" 200 None
+2022-12-10 04:05:38,748 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 04:05:42,322 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=9150871411@sbi HTTP/1.1" 200 None
+2022-12-10 04:05:42,331 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 04:05:45,408 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=9150871411@okicici HTTP/1.1" 200 None
+2022-12-10 04:05:45,417 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 04:05:48,466 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=9150871411@axisbank HTTP/1.1" 200 None
+2022-12-10 04:05:48,475 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 04:05:50,511 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=9150871411@ikwik HTTP/1.1" 200 None
+2022-12-10 04:05:50,520 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 04:05:52,767 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=9150871411@pnb HTTP/1.1" 200 None
+2022-12-10 04:05:52,775 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 04:06:04,443 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=9150871411@hdfc HTTP/1.1" 200 None
+2022-12-10 04:06:04,452 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 04:06:08,084 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=9150871411@idfcbank HTTP/1.1" 200 None
+2022-12-10 04:06:08,093 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 04:06:12,940 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=9150871411@okaxis HTTP/1.1" 200 None
+2022-12-10 04:06:12,950 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 04:06:15,525 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=9150871411@abfspay HTTP/1.1" 200 None
+2022-12-10 04:06:15,534 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 04:06:17,647 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=9150871411@ybl HTTP/1.1" 200 None
+2022-12-10 04:06:17,656 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 04:06:19,905 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=9150871411@barodampay HTTP/1.1" 200 None
+2022-12-10 04:06:19,913 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 04:06:22,597 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=9150871411@upi HTTP/1.1" 200 None
+2022-12-10 04:06:22,606 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 04:06:24,418 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=9150871411@paytm HTTP/1.1" 200 None
+2022-12-10 04:06:24,427 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 04:06:28,609 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=9150871411@yapl HTTP/1.1" 200 None
+2022-12-10 04:06:28,618 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 04:06:31,169 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=9150871411@dbs HTTP/1.1" 200 None
+2022-12-10 04:06:31,177 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 04:06:34,571 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=9150871411@yesbankltd HTTP/1.1" 200 None
+2022-12-10 04:06:34,580 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 04:06:37,312 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=9150871411@utbi HTTP/1.1" 200 None
+2022-12-10 04:06:37,322 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 04:06:47,916 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=9150871411@united HTTP/1.1" 200 None
+2022-12-10 04:06:47,927 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 04:06:51,651 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=9150871411@ubi HTTP/1.1" 200 None
+2022-12-10 04:06:51,660 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 04:06:55,442 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=9150871411@rajgovhdfcbank HTTP/1.1" 200 None
+2022-12-10 04:06:55,450 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 04:06:59,738 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=9150871411@pockets HTTP/1.1" 200 None
+2022-12-10 04:06:59,749 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 04:07:02,502 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=9150871411@payzapp HTTP/1.1" 200 None
+2022-12-10 04:07:02,513 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 04:07:05,164 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=9150871411@mahb HTTP/1.1" 200 None
+2022-12-10 04:07:05,172 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 04:07:08,766 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=9150871411@kaypay HTTP/1.1" 200 None
+2022-12-10 04:07:08,773 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 04:07:11,615 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=9150871411@imobile HTTP/1.1" 200 None
+2022-12-10 04:07:11,626 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 04:07:14,172 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=9150871411@idbibank HTTP/1.1" 200 None
+2022-12-10 04:07:14,184 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 04:07:18,069 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=9150871411@hdfcbank HTTP/1.1" 200 None
+2022-12-10 04:07:18,078 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443

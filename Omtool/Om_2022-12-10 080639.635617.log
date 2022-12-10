@@ -1,0 +1,237 @@
+2022-12-10 08:06:41,788 INFO INFO: The option seclected is 4
+2022-12-10 08:06:50,082 INFO INFO: The search type is c
+2022-12-10 08:10:10,892 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 08:10:13,852 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=avpathyfinance1973@apl HTTP/1.1" 200 None
+2022-12-10 08:10:13,862 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 08:10:16,036 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=avpathyfinance1973@oksbi HTTP/1.1" 200 None
+2022-12-10 08:10:16,046 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 08:10:18,437 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=avpathyfinance1973@okhdfcbank HTTP/1.1" 200 None
+2022-12-10 08:10:18,446 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 08:10:20,278 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=avpathyfinance1973@sbi HTTP/1.1" 200 None
+2022-12-10 08:10:20,287 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 08:10:22,428 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=avpathyfinance1973@okicici HTTP/1.1" 200 None
+2022-12-10 08:10:22,438 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 08:10:24,935 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=avpathyfinance1973@axisbank HTTP/1.1" 200 None
+2022-12-10 08:10:24,944 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 08:10:27,037 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=avpathyfinance1973@ikwik HTTP/1.1" 200 None
+2022-12-10 08:10:27,046 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 08:10:28,778 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=avpathyfinance1973@pnb HTTP/1.1" 200 None
+2022-12-10 08:10:28,787 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 08:10:41,271 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=avpathyfinance1973@hdfc HTTP/1.1" 200 None
+2022-12-10 08:10:41,280 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 08:10:43,216 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=avpathyfinance1973@idfcbank HTTP/1.1" 200 None
+2022-12-10 08:10:43,226 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 08:10:44,650 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=avpathyfinance1973@okaxis HTTP/1.1" 200 None
+2022-12-10 08:10:44,659 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 08:10:47,927 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=avpathyfinance1973@abfspay HTTP/1.1" 200 None
+2022-12-10 08:10:47,936 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 08:10:51,409 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=avpathyfinance1973@ybl HTTP/1.1" 200 None
+2022-12-10 08:10:51,419 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 08:10:54,666 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=avpathyfinance1973@barodampay HTTP/1.1" 200 None
+2022-12-10 08:10:54,675 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 08:10:57,757 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=avpathyfinance1973@upi HTTP/1.1" 200 None
+2022-12-10 08:10:57,766 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 08:11:00,727 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=avpathyfinance1973@paytm HTTP/1.1" 200 None
+2022-12-10 08:11:00,736 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 08:11:04,209 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=avpathyfinance1973@yapl HTTP/1.1" 200 None
+2022-12-10 08:11:04,219 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 08:11:06,495 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=avpathyfinance1973@dbs HTTP/1.1" 200 None
+2022-12-10 08:11:06,504 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 08:11:10,094 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=avpathyfinance1973@yesbankltd HTTP/1.1" 200 None
+2022-12-10 08:11:10,103 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 08:11:22,129 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=avpathyfinance1973@utbi HTTP/1.1" 200 None
+2022-12-10 08:11:22,138 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 08:11:32,778 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=avpathyfinance1973@united HTTP/1.1" 200 None
+2022-12-10 08:11:32,788 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 08:11:34,863 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=avpathyfinance1973@ubi HTTP/1.1" 200 None
+2022-12-10 08:11:34,872 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 08:11:37,286 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=avpathyfinance1973@rajgovhdfcbank HTTP/1.1" 200 None
+2022-12-10 08:11:37,296 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 08:11:40,459 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=avpathyfinance1973@pockets HTTP/1.1" 200 None
+2022-12-10 08:11:40,471 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 08:11:42,098 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=avpathyfinance1973@payzapp HTTP/1.1" 200 None
+2022-12-10 08:11:42,107 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 08:11:44,145 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=avpathyfinance1973@mahb HTTP/1.1" 200 None
+2022-12-10 08:11:44,155 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 08:11:46,295 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=avpathyfinance1973@kaypay HTTP/1.1" 200 None
+2022-12-10 08:11:46,304 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 08:11:48,344 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=avpathyfinance1973@imobile HTTP/1.1" 200 None
+2022-12-10 08:11:48,354 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 08:11:49,983 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=avpathyfinance1973@idbibank HTTP/1.1" 200 None
+2022-12-10 08:11:49,994 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 08:11:52,440 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=avpathyfinance1973@hdfcbank HTTP/1.1" 200 None
+2022-12-10 08:11:52,450 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 08:11:55,307 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=avpathyfinance1973@ezeepay HTTP/1.1" 200 None
+2022-12-10 08:11:55,317 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 08:11:56,946 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=avpathyfinance1973@eazypay HTTP/1.1" 200 None
+2022-12-10 08:11:56,956 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 08:12:00,423 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=avpathyfinance1973@cnrb HTTP/1.1" 200 None
+2022-12-10 08:12:00,432 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 08:12:02,388 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=avpathyfinance1973@centralbank HTTP/1.1" 200 None
+2022-12-10 08:12:02,397 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 08:12:05,104 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=avpathyfinance1973@cboi HTTP/1.1" 200 None
+2022-12-10 08:12:05,113 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 08:12:08,517 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=avpathyfinance1973@cbin HTTP/1.1" 200 None
+2022-12-10 08:12:08,525 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 08:12:12,511 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=avpathyfinance1973@boi HTTP/1.1" 200 None
+2022-12-10 08:12:12,520 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 08:12:14,966 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=avpathyfinance1973@yesbank HTTP/1.1" 200 None
+2022-12-10 08:12:14,975 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 08:12:17,630 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=avpathyfinance1973@wasbi HTTP/1.1" 200 None
+2022-12-10 08:12:17,639 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 08:12:19,207 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=avpathyfinance1973@waicici HTTP/1.1" 200 None
+2022-12-10 08:12:19,216 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 08:12:21,214 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=avpathyfinance1973@wahdfcbank HTTP/1.1" 200 None
+2022-12-10 08:12:21,223 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 08:12:24,184 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=avpathyfinance1973@waaxis HTTP/1.1" 200 None
+2022-12-10 08:12:24,194 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 08:12:26,642 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=avpathyfinance1973@unionbankofindia HTTP/1.1" 200 None
+2022-12-10 08:12:26,652 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 08:12:29,202 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=avpathyfinance1973@unionbank HTTP/1.1" 200 None
+2022-12-10 08:12:29,211 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 08:12:31,353 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=avpathyfinance1973@uco HTTP/1.1" 200 None
+2022-12-10 08:12:31,362 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 08:12:41,802 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=avpathyfinance1973@ubio HTTP/1.1" 200 None
+2022-12-10 08:12:41,810 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 08:12:44,459 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=avpathyfinance1973@timecosmos HTTP/1.1" 200 None
+2022-12-10 08:12:44,463 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 08:12:48,146 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=avpathyfinance1973@tapicici HTTP/1.1" 200 None
+2022-12-10 08:12:48,156 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 08:12:49,784 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=avpathyfinance1973@sib HTTP/1.1" 200 None
+2022-12-10 08:12:49,791 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 08:12:51,832 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=avpathyfinance1973@rbl HTTP/1.1" 200 None
+2022-12-10 08:12:51,842 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 08:12:53,778 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=avpathyfinance1973@pingpay HTTP/1.1" 200 None
+2022-12-10 08:12:53,787 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 08:12:56,543 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=avpathyfinance1973@kotak HTTP/1.1" 200 None
+2022-12-10 08:12:56,553 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 08:12:59,552 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=avpathyfinance1973@kmbl HTTP/1.1" 200 None
+2022-12-10 08:12:59,561 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 08:13:02,892 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=avpathyfinance1973@kbl HTTP/1.1" 200 None
+2022-12-10 08:13:02,901 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 08:13:04,530 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=avpathyfinance1973@jupiteraxis HTTP/1.1" 200 None
+2022-12-10 08:13:04,539 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 08:13:07,603 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=avpathyfinance1973@indus HTTP/1.1" 200 None
+2022-12-10 08:13:07,613 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 08:13:10,163 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=avpathyfinance1973@indianbank HTTP/1.1" 200 None
+2022-12-10 08:13:10,173 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 08:13:12,210 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=avpathyfinance1973@idbi HTTP/1.1" 200 None
+2022-12-10 08:13:12,220 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 08:13:14,156 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=avpathyfinance1973@icici HTTP/1.1" 200 None
+2022-12-10 08:13:14,165 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 08:13:16,717 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=avpathyfinance1973@ibl HTTP/1.1" 200 None
+2022-12-10 08:13:16,727 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 08:13:19,379 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=avpathyfinance1973@hsbc HTTP/1.1" 200 None
+2022-12-10 08:13:19,389 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 08:13:21,904 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=avpathyfinance1973@freecharge HTTP/1.1" 200 None
+2022-12-10 08:13:21,913 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 08:13:23,577 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=avpathyfinance1973@federal HTTP/1.1" 200 None
+2022-12-10 08:13:23,586 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 08:13:25,216 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=avpathyfinance1973@fbl HTTP/1.1" 200 None
+2022-12-10 08:13:25,225 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 08:13:29,147 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=avpathyfinance1973@dlb HTTP/1.1" 200 None
+2022-12-10 08:13:29,157 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 08:13:30,952 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=avpathyfinance1973@citigold HTTP/1.1" 200 None
+2022-12-10 08:13:30,961 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 08:13:32,998 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=avpathyfinance1973@citi HTTP/1.1" 200 None
+2022-12-10 08:13:33,007 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 08:13:35,148 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=avpathyfinance1973@bandhan HTTP/1.1" 200 None
+2022-12-10 08:13:35,157 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 08:13:37,656 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=avpathyfinance1973@axl HTTP/1.1" 200 None
+2022-12-10 08:13:37,665 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 08:13:41,395 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=avpathyfinance1973@axisb HTTP/1.1" 200 None
+2022-12-10 08:13:41,404 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 08:13:43,648 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=avpathyfinance1973@aubank HTTP/1.1" 200 None
+2022-12-10 08:13:43,658 DEBUG Starting new HTTPS connection (1): upibankvalidator.com:443
+2022-12-10 08:13:45,286 DEBUG https://upibankvalidator.com:443 "POST /api/upiValidation?upi=avpathyfinance1973@allbank HTTP/1.1" 200 None
+2022-12-10 08:13:45,308 DEBUG Starting new HTTPS connection (1): duckduckgo.com:443
+2022-12-10 08:13:45,729 DEBUG https://duckduckgo.com:443 "GET /html/?q=VENKATACHALAPATHY%20ANNAMALAI HTTP/1.1" 302 138
+2022-12-10 08:13:45,736 DEBUG Starting new HTTPS connection (1): html.duckduckgo.com:443
+2022-12-10 08:13:47,669 DEBUG https://html.duckduckgo.com:443 "GET /html/?q=VENKATACHALAPATHY%20ANNAMALAI HTTP/1.1" 200 None
+2022-12-10 08:13:48,773 DEBUG Starting new HTTPS connection (1): facebook.com:443
+2022-12-10 08:13:49,066 DEBUG https://facebook.com:443 "GET /VENKATACHALAPATHY_ANNAMALAI HTTP/1.1" 301 0
+2022-12-10 08:13:49,084 DEBUG Starting new HTTPS connection (1): www.facebook.com:443
+2022-12-10 08:13:49,388 DEBUG https://www.facebook.com:443 "GET /VENKATACHALAPATHY_ANNAMALAI HTTP/1.1" 200 None
+2022-12-10 08:13:49,472 DEBUG Starting new HTTPS connection (1): linkedin.com:443
+2022-12-10 08:13:49,793 DEBUG https://linkedin.com:443 "GET /in/VENKATACHALAPATHY_ANNAMALAI HTTP/1.1" 999 1530
+2022-12-10 08:13:49,821 DEBUG Starting new HTTPS connection (1): whitepages.com:443
+2022-12-10 08:13:50,713 DEBUG https://whitepages.com:443 "GET /name/VENKATACHALAPATHY_ANNAMALAI HTTP/1.1" 301 0
+2022-12-10 08:13:50,749 DEBUG Starting new HTTPS connection (1): www.whitepages.com:443
+2022-12-10 08:13:50,951 DEBUG https://www.whitepages.com:443 "GET /name/VENKATACHALAPATHY_ANNAMALAI HTTP/1.1" 403 None
+2022-12-10 08:13:50,972 DEBUG Starting new HTTPS connection (1): peoplefinders.com:443
+2022-12-10 08:13:51,190 DEBUG https://peoplefinders.com:443 "GET /name/VENKATACHALAPATHY_ANNAMALAI HTTP/1.1" 403 None
+2022-12-10 08:13:51,198 DEBUG Starting new HTTPS connection (1): instagram.com:443
+2022-12-10 08:13:51,533 DEBUG https://instagram.com:443 "GET /VENKATACHALAPATHY_ANNAMALAI HTTP/1.1" 301 0
+2022-12-10 08:13:51,815 DEBUG https://instagram.com:443 "GET /VENKATACHALAPATHY_ANNAMALAI/ HTTP/1.1" 301 0
+2022-12-10 08:13:51,835 DEBUG Starting new HTTPS connection (1): www.instagram.com:443
+2022-12-10 08:13:52,351 DEBUG https://www.instagram.com:443 "GET /VENKATACHALAPATHY_ANNAMALAI/ HTTP/1.1" 200 None
+2022-12-10 08:13:53,069 DEBUG Starting new HTTPS connection (1): pinterest.com:443
+2022-12-10 08:13:53,115 DEBUG https://pinterest.com:443 "GET /VENKATACHALAPATHY_ANNAMALAI HTTP/1.1" 308 301
+2022-12-10 08:13:53,135 DEBUG Starting new HTTPS connection (1): www.pinterest.com:443
+2022-12-10 08:13:54,092 DEBUG https://www.pinterest.com:443 "GET /VENKATACHALAPATHY_ANNAMALAI HTTP/1.1" 301 None
+2022-12-10 08:13:54,103 DEBUG Resetting dropped connection: www.pinterest.com
+2022-12-10 08:13:54,605 DEBUG https://www.pinterest.com:443 "GET /VENKATACHALAPATHY_ANNAMALAI/ HTTP/1.1" 200 None
+2022-12-10 08:13:55,033 DEBUG Starting new HTTPS connection (1): twitter.com:443
+2022-12-10 08:13:55,500 DEBUG https://twitter.com:443 "GET /VENKATACHALAPATHY_ANNAMALAI HTTP/1.1" 200 None
+2022-12-10 08:13:55,876 DEBUG Starting new HTTPS connection (1): youtube.com:443
+2022-12-10 08:13:56,045 DEBUG https://youtube.com:443 "GET /user/VENKATACHALAPATHY_ANNAMALAI HTTP/1.1" 301 0
+2022-12-10 08:13:56,060 DEBUG Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-10 08:13:56,220 DEBUG https://www.youtube.com:443 "GET /user/VENKATACHALAPATHY_ANNAMALAI HTTP/1.1" 404 None
+2022-12-10 08:13:56,240 DEBUG Starting new HTTPS connection (1): github.com:443
+2022-12-10 08:13:56,598 DEBUG https://github.com:443 "GET /VENKATACHALAPATHY_ANNAMALAI HTTP/1.1" 404 40
+2022-12-10 08:13:56,633 DEBUG Starting new HTTPS connection (1): stackoverflow.com:443
+2022-12-10 08:13:57,062 DEBUG https://stackoverflow.com:443 "GET /users/VENKATACHALAPATHY_ANNAMALAI HTTP/1.1" 404 None
+2022-12-10 08:13:57,283 DEBUG Starting new HTTPS connection (1): steamcommunity.com:443
+2022-12-10 08:13:57,882 DEBUG https://steamcommunity.com:443 "GET /id/VENKATACHALAPATHY_ANNAMALAI HTTP/1.1" 200 5820
+2022-12-10 08:13:57,934 DEBUG Starting new HTTPS connection (1): reddit.com:443
+2022-12-10 08:13:57,982 DEBUG https://reddit.com:443 "GET /user/VENKATACHALAPATHY_ANNAMALAI HTTP/1.1" 301 0
+2022-12-10 08:13:57,992 DEBUG Starting new HTTPS connection (1): www.reddit.com:443
+2022-12-10 08:13:59,520 DEBUG https://www.reddit.com:443 "GET /user/VENKATACHALAPATHY_ANNAMALAI HTTP/1.1" 200 None
+2022-12-10 08:14:00,558 INFO Performing Live search
+2022-12-10 08:16:52,071 INFO INFO: The option seclected is 4
+2022-12-10 08:17:02,217 INFO INFO: The search type is e
+2022-12-10 08:17:11,894 INFO Retrieving scroll page None
+2022-12-10 08:17:11,895 INFO Retrieving guest token
+2022-12-10 08:17:11,897 INFO Retrieving https://twitter.com/search?f=live&lang=en&q=varisu&src=spelling_expansion_revert_click
+2022-12-10 08:17:11,898 DEBUG ... with headers: {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.7387 Safari/537.20'}
+2022-12-10 08:17:11,899 DEBUG Starting new HTTPS connection (1): twitter.com:443
+2022-12-10 08:17:12,380 DEBUG https://twitter.com:443 "GET /search?f=live&lang=en&q=varisu&src=spelling_expansion_revert_click HTTP/1.1" 200 None
+2022-12-10 08:17:12,710 INFO Retrieved https://twitter.com/search?f=live&lang=en&q=varisu&src=spelling_expansion_revert_click: 200
+2022-12-10 08:17:12,710 DEBUG https://twitter.com/search?f=live&lang=en&q=varisu&src=spelling_expansion_revert_click retrieved successfully
+2022-12-10 08:17:12,713 DEBUG Found guest token in HTML
+2022-12-10 08:17:12,713 DEBUG Using guest token 1601408158542737408
+2022-12-10 08:17:12,715 INFO Retrieving https://api.twitter.com/2/search/adaptive.json?include_profile_interstitial_type=1&include_blocking=1&include_blocked_by=1&include_followed_by=1&include_want_retweets=1&include_mute_edge=1&include_can_dm=1&include_can_media_tag=1&skip_status=1&cards_platform=Web-12&include_cards=1&include_ext_alt_text=true&include_quote_count=true&include_reply_count=1&tweet_mode=extended&include_entities=true&include_user_entities=true&include_ext_media_color=true&include_ext_media_availability=true&send_error_codes=true&simple_quoted_tweets=true&q=varisu&tweet_search_mode=live&count=100&query_source=spelling_expansion_revert_click&pc=1&spelling_corrections=1&ext=mediaStats%2ChighlightedLabel
+2022-12-10 08:17:12,716 DEBUG ... with headers: {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.7387 Safari/537.20', 'Authorization': 'Bearer AAAAAAAAAAAAAAAAAAAAANRILgAAAAAAnNwIzUejRCOuH5E6I8xnZz4puTs=1Zv7ttfk8LF81IUq16cHjhLTvJu4FA33AGWWjCpTnA', 'Referer': 'https://twitter.com/search?f=live&lang=en&q=varisu&src=spelling_expansion_revert_click', 'Accept-Language': 'en-US,en;q=0.5', 'x-guest-token': '1601408158542737408'}
+2022-12-10 08:17:12,717 DEBUG Starting new HTTPS connection (1): api.twitter.com:443
+2022-12-10 08:17:13,744 DEBUG https://api.twitter.com:443 "GET /2/search/adaptive.json?include_profile_interstitial_type=1&include_blocking=1&include_blocked_by=1&include_followed_by=1&include_want_retweets=1&include_mute_edge=1&include_can_dm=1&include_can_media_tag=1&skip_status=1&cards_platform=Web-12&include_cards=1&include_ext_alt_text=true&include_quote_count=true&include_reply_count=1&tweet_mode=extended&include_entities=true&include_user_entities=true&include_ext_media_color=true&include_ext_media_availability=true&send_error_codes=true&simple_quoted_tweets=true&q=varisu&tweet_search_mode=live&count=100&query_source=spelling_expansion_revert_click&pc=1&spelling_corrections=1&ext=mediaStats%2ChighlightedLabel HTTP/1.1" 200 15002
+2022-12-10 08:17:13,745 INFO Retrieved https://api.twitter.com/2/search/adaptive.json?include_profile_interstitial_type=1&include_blocking=1&include_blocked_by=1&include_followed_by=1&include_want_retweets=1&include_mute_edge=1&include_can_dm=1&include_can_media_tag=1&skip_status=1&cards_platform=Web-12&include_cards=1&include_ext_alt_text=true&include_quote_count=true&include_reply_count=1&tweet_mode=extended&include_entities=true&include_user_entities=true&include_ext_media_color=true&include_ext_media_availability=true&send_error_codes=true&simple_quoted_tweets=true&q=varisu&tweet_search_mode=live&count=100&query_source=spelling_expansion_revert_click&pc=1&spelling_corrections=1&ext=mediaStats%2ChighlightedLabel: 200
+2022-12-10 08:17:13,746 DEBUG https://api.twitter.com/2/search/adaptive.json?include_profile_interstitial_type=1&include_blocking=1&include_blocked_by=1&include_followed_by=1&include_want_retweets=1&include_mute_edge=1&include_can_dm=1&include_can_media_tag=1&skip_status=1&cards_platform=Web-12&include_cards=1&include_ext_alt_text=true&include_quote_count=true&include_reply_count=1&tweet_mode=extended&include_entities=true&include_user_entities=true&include_ext_media_color=true&include_ext_media_availability=true&send_error_codes=true&simple_quoted_tweets=true&q=varisu&tweet_search_mode=live&count=100&query_source=spelling_expansion_revert_click&pc=1&spelling_corrections=1&ext=mediaStats%2ChighlightedLabel retrieved successfully
+2022-12-10 08:17:13,755 INFO Retrieving scroll page scroll:thGAVUV0VFVBaAwNSZle2ruSwWgsDS6buKrLksEnEV8IV6FYCJehgEVVNFUjUBFQAVAAA=
+2022-12-10 08:17:13,755 DEBUG Using guest token 1601408158542737408
+2022-12-10 08:17:13,756 INFO Retrieving https://api.twitter.com/2/search/adaptive.json?include_profile_interstitial_type=1&include_blocking=1&include_blocked_by=1&include_followed_by=1&include_want_retweets=1&include_mute_edge=1&include_can_dm=1&include_can_media_tag=1&skip_status=1&cards_platform=Web-12&include_cards=1&include_ext_alt_text=true&include_quote_count=true&include_reply_count=1&tweet_mode=extended&include_entities=true&include_user_entities=true&include_ext_media_color=true&include_ext_media_availability=true&send_error_codes=true&simple_quoted_tweets=true&q=varisu&tweet_search_mode=live&count=100&query_source=spelling_expansion_revert_click&cursor=scroll%3AthGAVUV0VFVBaAwNSZle2ruSwWgsDS6buKrLksEnEV8IV6FYCJehgEVVNFUjUBFQAVAAA%3D&pc=1&spelling_corrections=1&ext=mediaStats%2ChighlightedLabel
+2022-12-10 08:17:13,756 DEBUG ... with headers: {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.7387 Safari/537.20', 'Authorization': 'Bearer AAAAAAAAAAAAAAAAAAAAANRILgAAAAAAnNwIzUejRCOuH5E6I8xnZz4puTs=1Zv7ttfk8LF81IUq16cHjhLTvJu4FA33AGWWjCpTnA', 'Referer': 'https://twitter.com/search?f=live&lang=en&q=varisu&src=spelling_expansion_revert_click', 'Accept-Language': 'en-US,en;q=0.5', 'x-guest-token': '1601408158542737408'}
+2022-12-10 08:17:14,614 DEBUG https://api.twitter.com:443 "GET /2/search/adaptive.json?include_profile_interstitial_type=1&include_blocking=1&include_blocked_by=1&include_followed_by=1&include_want_retweets=1&include_mute_edge=1&include_can_dm=1&include_can_media_tag=1&skip_status=1&cards_platform=Web-12&include_cards=1&include_ext_alt_text=true&include_quote_count=true&include_reply_count=1&tweet_mode=extended&include_entities=true&include_user_entities=true&include_ext_media_color=true&include_ext_media_availability=true&send_error_codes=true&simple_quoted_tweets=true&q=varisu&tweet_search_mode=live&count=100&query_source=spelling_expansion_revert_click&cursor=scroll%3AthGAVUV0VFVBaAwNSZle2ruSwWgsDS6buKrLksEnEV8IV6FYCJehgEVVNFUjUBFQAVAAA%3D&pc=1&spelling_corrections=1&ext=mediaStats%2ChighlightedLabel HTTP/1.1" 200 17491
+2022-12-10 08:17:14,616 INFO Retrieved https://api.twitter.com/2/search/adaptive.json?include_profile_interstitial_type=1&include_blocking=1&include_blocked_by=1&include_followed_by=1&include_want_retweets=1&include_mute_edge=1&include_can_dm=1&include_can_media_tag=1&skip_status=1&cards_platform=Web-12&include_cards=1&include_ext_alt_text=true&include_quote_count=true&include_reply_count=1&tweet_mode=extended&include_entities=true&include_user_entities=true&include_ext_media_color=true&include_ext_media_availability=true&send_error_codes=true&simple_quoted_tweets=true&q=varisu&tweet_search_mode=live&count=100&query_source=spelling_expansion_revert_click&cursor=scroll%3AthGAVUV0VFVBaAwNSZle2ruSwWgsDS6buKrLksEnEV8IV6FYCJehgEVVNFUjUBFQAVAAA%3D&pc=1&spelling_corrections=1&ext=mediaStats%2ChighlightedLabel: 200
+2022-12-10 08:17:14,616 DEBUG https://api.twitter.com/2/search/adaptive.json?include_profile_interstitial_type=1&include_blocking=1&include_blocked_by=1&include_followed_by=1&include_want_retweets=1&include_mute_edge=1&include_can_dm=1&include_can_media_tag=1&skip_status=1&cards_platform=Web-12&include_cards=1&include_ext_alt_text=true&include_quote_count=true&include_reply_count=1&tweet_mode=extended&include_entities=true&include_user_entities=true&include_ext_media_color=true&include_ext_media_availability=true&send_error_codes=true&simple_quoted_tweets=true&q=varisu&tweet_search_mode=live&count=100&query_source=spelling_expansion_revert_click&cursor=scroll%3AthGAVUV0VFVBaAwNSZle2ruSwWgsDS6buKrLksEnEV8IV6FYCJehgEVVNFUjUBFQAVAAA%3D&pc=1&spelling_corrections=1&ext=mediaStats%2ChighlightedLabel retrieved successfully
+2022-12-10 08:17:14,622 INFO Retrieving scroll page scroll:thGAVUV0VFVBaCwNLVx9SruSwWgsDS6buKrLksEnEV4IJ6FYCJehgEVVNFUjUBFQIVAAA=
+2022-12-10 08:17:14,622 DEBUG Using guest token 1601408158542737408
+2022-12-10 08:17:14,624 INFO Retrieving https://api.twitter.com/2/search/adaptive.json?include_profile_interstitial_type=1&include_blocking=1&include_blocked_by=1&include_followed_by=1&include_want_retweets=1&include_mute_edge=1&include_can_dm=1&include_can_media_tag=1&skip_status=1&cards_platform=Web-12&include_cards=1&include_ext_alt_text=true&include_quote_count=true&include_reply_count=1&tweet_mode=extended&include_entities=true&include_user_entities=true&include_ext_media_color=true&include_ext_media_availability=true&send_error_codes=true&simple_quoted_tweets=true&q=varisu&tweet_search_mode=live&count=100&query_source=spelling_expansion_revert_click&cursor=scroll%3AthGAVUV0VFVBaCwNLVx9SruSwWgsDS6buKrLksEnEV4IJ6FYCJehgEVVNFUjUBFQIVAAA%3D&pc=1&spelling_corrections=1&ext=mediaStats%2ChighlightedLabel
+2022-12-10 08:17:14,624 DEBUG ... with headers: {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.7387 Safari/537.20', 'Authorization': 'Bearer AAAAAAAAAAAAAAAAAAAAANRILgAAAAAAnNwIzUejRCOuH5E6I8xnZz4puTs=1Zv7ttfk8LF81IUq16cHjhLTvJu4FA33AGWWjCpTnA', 'Referer': 'https://twitter.com/search?f=live&lang=en&q=varisu&src=spelling_expansion_revert_click', 'Accept-Language': 'en-US,en;q=0.5', 'x-guest-token': '1601408158542737408'}
+2022-12-10 08:17:15,490 DEBUG https://api.twitter.com:443 "GET /2/search/adaptive.json?include_profile_interstitial_type=1&include_blocking=1&include_blocked_by=1&include_followed_by=1&include_want_retweets=1&include_mute_edge=1&include_can_dm=1&include_can_media_tag=1&skip_status=1&cards_platform=Web-12&include_cards=1&include_ext_alt_text=true&include_quote_count=true&include_reply_count=1&tweet_mode=extended&include_entities=true&include_user_entities=true&include_ext_media_color=true&include_ext_media_availability=true&send_error_codes=true&simple_quoted_tweets=true&q=varisu&tweet_search_mode=live&count=100&query_source=spelling_expansion_revert_click&cursor=scroll%3AthGAVUV0VFVBaCwNLVx9SruSwWgsDS6buKrLksEnEV4IJ6FYCJehgEVVNFUjUBFQIVAAA%3D&pc=1&spelling_corrections=1&ext=mediaStats%2ChighlightedLabel HTTP/1.1" 200 17026
+2022-12-10 08:17:15,492 INFO Retrieved https://api.twitter.com/2/search/adaptive.json?include_profile_interstitial_type=1&include_blocking=1&include_blocked_by=1&include_followed_by=1&include_want_retweets=1&include_mute_edge=1&include_can_dm=1&include_can_media_tag=1&skip_status=1&cards_platform=Web-12&include_cards=1&include_ext_alt_text=true&include_quote_count=true&include_reply_count=1&tweet_mode=extended&include_entities=true&include_user_entities=true&include_ext_media_color=true&include_ext_media_availability=true&send_error_codes=true&simple_quoted_tweets=true&q=varisu&tweet_search_mode=live&count=100&query_source=spelling_expansion_revert_click&cursor=scroll%3AthGAVUV0VFVBaCwNLVx9SruSwWgsDS6buKrLksEnEV4IJ6FYCJehgEVVNFUjUBFQIVAAA%3D&pc=1&spelling_corrections=1&ext=mediaStats%2ChighlightedLabel: 200
+2022-12-10 08:17:15,492 DEBUG https://api.twitter.com/2/search/adaptive.json?include_profile_interstitial_type=1&include_blocking=1&include_blocked_by=1&include_followed_by=1&include_want_retweets=1&include_mute_edge=1&include_can_dm=1&include_can_media_tag=1&skip_status=1&cards_platform=Web-12&include_cards=1&include_ext_alt_text=true&include_quote_count=true&include_reply_count=1&tweet_mode=extended&include_entities=true&include_user_entities=true&include_ext_media_color=true&include_ext_media_availability=true&send_error_codes=true&simple_quoted_tweets=true&q=varisu&tweet_search_mode=live&count=100&query_source=spelling_expansion_revert_click&cursor=scroll%3AthGAVUV0VFVBaCwNLVx9SruSwWgsDS6buKrLksEnEV4IJ6FYCJehgEVVNFUjUBFQIVAAA%3D&pc=1&spelling_corrections=1&ext=mediaStats%2ChighlightedLabel retrieved successfully
+2022-12-10 08:17:15,498 INFO Retrieving scroll page scroll:thGAVUV0VFVBaAwNONosGruSwWgsDS6buKrLksEnEV0P95FYCJehgEVVNFUjUBFQQVAAA=
+2022-12-10 08:17:15,498 DEBUG Using guest token 1601408158542737408
+2022-12-10 08:17:15,500 INFO Retrieving https://api.twitter.com/2/search/adaptive.json?include_profile_interstitial_type=1&include_blocking=1&include_blocked_by=1&include_followed_by=1&include_want_retweets=1&include_mute_edge=1&include_can_dm=1&include_can_media_tag=1&skip_status=1&cards_platform=Web-12&include_cards=1&include_ext_alt_text=true&include_quote_count=true&include_reply_count=1&tweet_mode=extended&include_entities=true&include_user_entities=true&include_ext_media_color=true&include_ext_media_availability=true&send_error_codes=true&simple_quoted_tweets=true&q=varisu&tweet_search_mode=live&count=100&query_source=spelling_expansion_revert_click&cursor=scroll%3AthGAVUV0VFVBaAwNONosGruSwWgsDS6buKrLksEnEV0P95FYCJehgEVVNFUjUBFQQVAAA%3D&pc=1&spelling_corrections=1&ext=mediaStats%2ChighlightedLabel
+2022-12-10 08:17:15,500 DEBUG ... with headers: {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.7387 Safari/537.20', 'Authorization': 'Bearer AAAAAAAAAAAAAAAAAAAAANRILgAAAAAAnNwIzUejRCOuH5E6I8xnZz4puTs=1Zv7ttfk8LF81IUq16cHjhLTvJu4FA33AGWWjCpTnA', 'Referer': 'https://twitter.com/search?f=live&lang=en&q=varisu&src=spelling_expansion_revert_click', 'Accept-Language': 'en-US,en;q=0.5', 'x-guest-token': '1601408158542737408'}
+2022-12-10 08:17:16,273 DEBUG https://api.twitter.com:443 "GET /2/search/adaptive.json?include_profile_interstitial_type=1&include_blocking=1&include_blocked_by=1&include_followed_by=1&include_want_retweets=1&include_mute_edge=1&include_can_dm=1&include_can_media_tag=1&skip_status=1&cards_platform=Web-12&include_cards=1&include_ext_alt_text=true&include_quote_count=true&include_reply_count=1&tweet_mode=extended&include_entities=true&include_user_entities=true&include_ext_media_color=true&include_ext_media_availability=true&send_error_codes=true&simple_quoted_tweets=true&q=varisu&tweet_search_mode=live&count=100&query_source=spelling_expansion_revert_click&cursor=scroll%3AthGAVUV0VFVBaAwNONosGruSwWgsDS6buKrLksEnEV0P95FYCJehgEVVNFUjUBFQQVAAA%3D&pc=1&spelling_corrections=1&ext=mediaStats%2ChighlightedLabel HTTP/1.1" 200 14115
+2022-12-10 08:17:16,276 INFO Retrieved https://api.twitter.com/2/search/adaptive.json?include_profile_interstitial_type=1&include_blocking=1&include_blocked_by=1&include_followed_by=1&include_want_retweets=1&include_mute_edge=1&include_can_dm=1&include_can_media_tag=1&skip_status=1&cards_platform=Web-12&include_cards=1&include_ext_alt_text=true&include_quote_count=true&include_reply_count=1&tweet_mode=extended&include_entities=true&include_user_entities=true&include_ext_media_color=true&include_ext_media_availability=true&send_error_codes=true&simple_quoted_tweets=true&q=varisu&tweet_search_mode=live&count=100&query_source=spelling_expansion_revert_click&cursor=scroll%3AthGAVUV0VFVBaAwNONosGruSwWgsDS6buKrLksEnEV0P95FYCJehgEVVNFUjUBFQQVAAA%3D&pc=1&spelling_corrections=1&ext=mediaStats%2ChighlightedLabel: 200
+2022-12-10 08:17:16,276 DEBUG https://api.twitter.com/2/search/adaptive.json?include_profile_interstitial_type=1&include_blocking=1&include_blocked_by=1&include_followed_by=1&include_want_retweets=1&include_mute_edge=1&include_can_dm=1&include_can_media_tag=1&skip_status=1&cards_platform=Web-12&include_cards=1&include_ext_alt_text=true&include_quote_count=true&include_reply_count=1&tweet_mode=extended&include_entities=true&include_user_entities=true&include_ext_media_color=true&include_ext_media_availability=true&send_error_codes=true&simple_quoted_tweets=true&q=varisu&tweet_search_mode=live&count=100&query_source=spelling_expansion_revert_click&cursor=scroll%3AthGAVUV0VFVBaAwNONosGruSwWgsDS6buKrLksEnEV0P95FYCJehgEVVNFUjUBFQQVAAA%3D&pc=1&spelling_corrections=1&ext=mediaStats%2ChighlightedLabel retrieved successfully
+2022-12-10 08:17:16,282 INFO Retrieving scroll page scroll:thGAVUV0VFVBaAgNONgKWruSwWgsDS6buKrLksEnEVwPx5FYCJehgEVVNFUjUBFQYVAAA=
+2022-12-10 08:17:16,282 DEBUG Using guest token 1601408158542737408
+2022-12-10 08:17:16,283 INFO Retrieving https://api.twitter.com/2/search/adaptive.json?include_profile_interstitial_type=1&include_blocking=1&include_blocked_by=1&include_followed_by=1&include_want_retweets=1&include_mute_edge=1&include_can_dm=1&include_can_media_tag=1&skip_status=1&cards_platform=Web-12&include_cards=1&include_ext_alt_text=true&include_quote_count=true&include_reply_count=1&tweet_mode=extended&include_entities=true&include_user_entities=true&include_ext_media_color=true&include_ext_media_availability=true&send_error_codes=true&simple_quoted_tweets=true&q=varisu&tweet_search_mode=live&count=100&query_source=spelling_expansion_revert_click&cursor=scroll%3AthGAVUV0VFVBaAgNONgKWruSwWgsDS6buKrLksEnEVwPx5FYCJehgEVVNFUjUBFQYVAAA%3D&pc=1&spelling_corrections=1&ext=mediaStats%2ChighlightedLabel
+2022-12-10 08:17:16,283 DEBUG ... with headers: {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.7387 Safari/537.20', 'Authorization': 'Bearer AAAAAAAAAAAAAAAAAAAAANRILgAAAAAAnNwIzUejRCOuH5E6I8xnZz4puTs=1Zv7ttfk8LF81IUq16cHjhLTvJu4FA33AGWWjCpTnA', 'Referer': 'https://twitter.com/search?f=live&lang=en&q=varisu&src=spelling_expansion_revert_click', 'Accept-Language': 'en-US,en;q=0.5', 'x-guest-token': '1601408158542737408'}
+2022-12-10 08:17:17,155 DEBUG https://api.twitter.com:443 "GET /2/search/adaptive.json?include_profile_interstitial_type=1&include_blocking=1&include_blocked_by=1&include_followed_by=1&include_want_retweets=1&include_mute_edge=1&include_can_dm=1&include_can_media_tag=1&skip_status=1&cards_platform=Web-12&include_cards=1&include_ext_alt_text=true&include_quote_count=true&include_reply_count=1&tweet_mode=extended&include_entities=true&include_user_entities=true&include_ext_media_color=true&include_ext_media_availability=true&send_error_codes=true&simple_quoted_tweets=true&q=varisu&tweet_search_mode=live&count=100&query_source=spelling_expansion_revert_click&cursor=scroll%3AthGAVUV0VFVBaAgNONgKWruSwWgsDS6buKrLksEnEVwPx5FYCJehgEVVNFUjUBFQYVAAA%3D&pc=1&spelling_corrections=1&ext=mediaStats%2ChighlightedLabel HTTP/1.1" 200 14757
+2022-12-10 08:17:17,157 INFO Retrieved https://api.twitter.com/2/search/adaptive.json?include_profile_interstitial_type=1&include_blocking=1&include_blocked_by=1&include_followed_by=1&include_want_retweets=1&include_mute_edge=1&include_can_dm=1&include_can_media_tag=1&skip_status=1&cards_platform=Web-12&include_cards=1&include_ext_alt_text=true&include_quote_count=true&include_reply_count=1&tweet_mode=extended&include_entities=true&include_user_entities=true&include_ext_media_color=true&include_ext_media_availability=true&send_error_codes=true&simple_quoted_tweets=true&q=varisu&tweet_search_mode=live&count=100&query_source=spelling_expansion_revert_click&cursor=scroll%3AthGAVUV0VFVBaAgNONgKWruSwWgsDS6buKrLksEnEVwPx5FYCJehgEVVNFUjUBFQYVAAA%3D&pc=1&spelling_corrections=1&ext=mediaStats%2ChighlightedLabel: 200
+2022-12-10 08:17:17,158 DEBUG https://api.twitter.com/2/search/adaptive.json?include_profile_interstitial_type=1&include_blocking=1&include_blocked_by=1&include_followed_by=1&include_want_retweets=1&include_mute_edge=1&include_can_dm=1&include_can_media_tag=1&skip_status=1&cards_platform=Web-12&include_cards=1&include_ext_alt_text=true&include_quote_count=true&include_reply_count=1&tweet_mode=extended&include_entities=true&include_user_entities=true&include_ext_media_color=true&include_ext_media_availability=true&send_error_codes=true&simple_quoted_tweets=true&q=varisu&tweet_search_mode=live&count=100&query_source=spelling_expansion_revert_click&cursor=scroll%3AthGAVUV0VFVBaAgNONgKWruSwWgsDS6buKrLksEnEVwPx5FYCJehgEVVNFUjUBFQYVAAA%3D&pc=1&spelling_corrections=1&ext=mediaStats%2ChighlightedLabel retrieved successfully
+2022-12-10 08:17:18,177 INFO Performing Live search

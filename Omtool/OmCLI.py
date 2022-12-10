@@ -11,7 +11,7 @@ This is specifically customized for TN Police Hackathon 2022.
 Tool Developed by Team ModSouls, TIFAC-CORE in Cyber Security, Amrita Vishwa Vidyapeetham, Coimbatore.
 
 '''
-
+import datetime
 import os
 import time
 import sys
@@ -64,7 +64,7 @@ def main():
 [+]
     """)
     internet_check()
-    logging.basicConfig(filename='Om.log', encoding='utf-8', level=logging.DEBUG , format='%(asctime)s %(levelname)s %(message)s')
+    logging.basicConfig(filename='Om_'+str(datetime.datetime.now())+'.log', encoding='utf-8', level=logging.DEBUG , format='%(asctime)s %(levelname)s %(message)s')
     timer=0
     searchquery=""
     while 1:
@@ -82,12 +82,11 @@ def main():
         print("[b] Number Search")
         print("[c] Email Search")
         print("[d] UPI Search")
-        print("[e] Image Search")
-        print("[f] twitter scrapping")
+        print("[e] twitter scrapping")
         print("\n")
         search_type = input("[+] Select your option : \t")
         logging.info("INFO: The search type is " + search_type)
-        if search_type!="f":
+        if search_type!="e":
             searchquery = input("[+] Select query to search:\t")
         if query_type=="1" or query_type=="2":
             timer = input("[+] select the time to search:\t")

@@ -10,11 +10,22 @@ import schedule
 import time
 import logging
 
+"""
+this function is used perform a search for a given query
+
+Args:
+    search_type : Type of the query 
+    query : The search query
+
+Raises:
+    Invalid option when search_type is out of the boundry
+"""
+
 main_url = "https://ipqualityscore.com/api/json/phone/3xCII0XTawnHlluREioX4XIhIgaH4NQ2/"
 def omphone(phno):
     print("\n")
     print("*********************************************************************************************************\n")
-    print("************************************   PhoneNumber  *****************************************************\n")
+    print("******************************   PhoneNumber(Powered by IPQualityScore)  ********************************\n")
     print("*********************************************************************************************************\n")
     phone_details = requests.post(main_url+phno).json()
     # print (phone_details)

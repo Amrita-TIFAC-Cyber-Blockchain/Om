@@ -13,23 +13,45 @@ from utils import search_realname, search_username, ig_scrape, whois_lookup, web
     phonenumber_lookup, websearch, smsbomber, tokenlogger_generator, twitter_scraping
 from subtools import omuser_search, omupi_search, omphone_search
 
+"""
+this function is used perform a search for a given query
+
+Args:
+    search_type : Type of the query 
+    query : The search query
+
+Raises:
+    Invalid option when search_type is out of the boundry
+"""
 def searchquery(search_type,query):
     if search_type=="a":
         omuser_search.omuser_search(query)
         omupi_search.omupi_search(query)
     elif search_type=="b":
-        websearch.Search(query)
         omphone_search.omphone("+91"+query)
         omupi_search.omupi_search(query)
     elif search_type=="c":
         print("\n")
         split_query = query.split("@")
-        websearch.Search(split_query[0])
+        # websearch.Search(split_query[0])
         omupi_search.omupi_search(split_query[0])
     elif search_type=="d":
         omupi_search.omupi_search(query)
-    elif search_type=="f":
+    elif search_type=="e":
         utils.twitter_scraping.scraping_options()
+
+"""
+this function is used perform a search for a given query
+
+Args:
+    query_type : Type of the Search
+    search_type : Type of the query 
+    query : The search query
+    timer : Time to search in scheduled search
+
+Raises:
+    Invalid option when search_type is out of the boundry
+"""
 
 def omsearcher(query_type,search_type,query,timer):
     if query_type=="3" or query_type=="4":

@@ -1,0 +1,63 @@
+2022-12-10 02:24:04,096 INFO INFO: The option seclected is 4
+2022-12-10 02:24:08,330 INFO INFO: The search type is e
+2022-12-10 02:24:13,806 INFO Retrieving guest token
+2022-12-10 02:24:13,813 INFO Retrieving https://twitter.com/ramaguru
+2022-12-10 02:24:13,813 DEBUG ... with headers: {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.3567 Safari/537.34'}
+2022-12-10 02:24:13,814 DEBUG Starting new HTTPS connection (1): twitter.com:443
+2022-12-10 02:24:15,419 DEBUG https://twitter.com:443 "GET /ramaguru HTTP/1.1" 200 None
+2022-12-10 02:24:15,726 INFO Retrieved https://twitter.com/ramaguru: 200
+2022-12-10 02:24:15,727 DEBUG https://twitter.com/ramaguru retrieved successfully
+2022-12-10 02:24:15,729 DEBUG Found guest token in HTML
+2022-12-10 02:24:15,729 DEBUG Using guest token 1601319336802930689
+2022-12-10 02:24:15,730 DEBUG Using guest token 1601319336802930689
+2022-12-10 02:24:15,731 INFO Retrieving https://api.twitter.com/graphql/-xfUfZsnR_zqjFd-IfrN5A/UserByScreenName?variables=%7B%22screen_name%22%3A%22ramaguru%22%2C%22withHighlightedLabel%22%3Atrue%7D
+2022-12-10 02:24:15,731 DEBUG ... with headers: {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.3567 Safari/537.34', 'Authorization': 'Bearer AAAAAAAAAAAAAAAAAAAAANRILgAAAAAAnNwIzUejRCOuH5E6I8xnZz4puTs=1Zv7ttfk8LF81IUq16cHjhLTvJu4FA33AGWWjCpTnA', 'Referer': 'https://twitter.com/search?f=live&lang=en&q=from%3Aramaguru&src=spelling_expansion_revert_click', 'Accept-Language': 'en-US,en;q=0.5', 'x-guest-token': '1601319336802930689'}
+2022-12-10 02:24:15,732 DEBUG Starting new HTTPS connection (1): api.twitter.com:443
+2022-12-10 02:24:16,653 DEBUG https://api.twitter.com:443 "GET /graphql/-xfUfZsnR_zqjFd-IfrN5A/UserByScreenName?variables=%7B%22screen_name%22%3A%22ramaguru%22%2C%22withHighlightedLabel%22%3Atrue%7D HTTP/1.1" 200 976
+2022-12-10 02:24:16,655 INFO Retrieved https://api.twitter.com/graphql/-xfUfZsnR_zqjFd-IfrN5A/UserByScreenName?variables=%7B%22screen_name%22%3A%22ramaguru%22%2C%22withHighlightedLabel%22%3Atrue%7D: 200
+2022-12-10 02:24:16,655 DEBUG https://api.twitter.com/graphql/-xfUfZsnR_zqjFd-IfrN5A/UserByScreenName?variables=%7B%22screen_name%22%3A%22ramaguru%22%2C%22withHighlightedLabel%22%3Atrue%7D retrieved successfully
+2022-12-10 02:24:18,673 DEBUG Starting new HTTPS connection (1): duckduckgo.com:443
+2022-12-10 02:24:19,292 DEBUG https://duckduckgo.com:443 "GET /html/?q=ramaguru HTTP/1.1" 302 138
+2022-12-10 02:24:19,300 DEBUG Starting new HTTPS connection (1): html.duckduckgo.com:443
+2022-12-10 02:24:20,573 DEBUG https://html.duckduckgo.com:443 "GET /html/?q=ramaguru HTTP/1.1" 200 None
+2022-12-10 02:24:21,957 DEBUG Starting new HTTPS connection (1): facebook.com:443
+2022-12-10 02:24:22,979 DEBUG https://facebook.com:443 "GET /ramaguru HTTP/1.1" 301 0
+2022-12-10 02:24:23,291 DEBUG Starting new HTTPS connection (1): www.facebook.com:443
+2022-12-10 02:24:23,849 DEBUG https://www.facebook.com:443 "GET /ramaguru HTTP/1.1" 302 0
+2022-12-10 02:24:25,077 DEBUG https://www.facebook.com:443 "GET /rama.guru/ HTTP/1.1" 200 None
+2022-12-10 02:24:25,597 DEBUG Starting new HTTPS connection (1): linkedin.com:443
+2022-12-10 02:24:26,355 DEBUG https://linkedin.com:443 "GET /in/ramaguru HTTP/1.1" 999 1530
+2022-12-10 02:24:27,795 DEBUG Starting new HTTPS connection (1): whitepages.com:443
+2022-12-10 02:24:29,938 DEBUG https://whitepages.com:443 "GET /name/ramaguru HTTP/1.1" 301 0
+2022-12-10 02:24:30,355 DEBUG Starting new HTTPS connection (1): www.whitepages.com:443
+2022-12-10 02:24:30,669 DEBUG https://www.whitepages.com:443 "GET /name/ramaguru HTTP/1.1" 403 None
+2022-12-10 02:24:30,681 DEBUG Starting new HTTPS connection (1): peoplefinders.com:443
+2022-12-10 02:24:31,196 DEBUG https://peoplefinders.com:443 "GET /name/ramaguru HTTP/1.1" 403 None
+2022-12-10 02:24:31,206 DEBUG Starting new HTTPS connection (1): instagram.com:443
+2022-12-10 02:24:32,092 DEBUG https://instagram.com:443 "GET /ramaguru HTTP/1.1" 301 0
+2022-12-10 02:24:32,396 DEBUG https://instagram.com:443 "GET /ramaguru/ HTTP/1.1" 301 0
+2022-12-10 02:24:32,716 DEBUG Starting new HTTPS connection (1): www.instagram.com:443
+2022-12-10 02:24:33,424 DEBUG https://www.instagram.com:443 "GET /ramaguru/ HTTP/1.1" 200 None
+2022-12-10 02:24:33,648 DEBUG Starting new HTTPS connection (1): pinterest.com:443
+2022-12-10 02:24:33,969 DEBUG https://pinterest.com:443 "GET /ramaguru HTTP/1.1" 308 263
+2022-12-10 02:24:34,350 DEBUG Starting new HTTPS connection (1): www.pinterest.com:443
+2022-12-10 02:24:35,113 DEBUG https://www.pinterest.com:443 "GET /ramaguru HTTP/1.1" 301 None
+2022-12-10 02:24:35,123 DEBUG Resetting dropped connection: www.pinterest.com
+2022-12-10 02:24:36,703 DEBUG https://www.pinterest.com:443 "GET /ramaguru/ HTTP/1.1" 200 None
+2022-12-10 02:24:37,069 DEBUG Starting new HTTPS connection (1): twitter.com:443
+2022-12-10 02:24:37,824 DEBUG https://twitter.com:443 "GET /ramaguru HTTP/1.1" 200 None
+2022-12-10 02:24:38,185 DEBUG Starting new HTTPS connection (1): youtube.com:443
+2022-12-10 02:24:38,884 DEBUG https://youtube.com:443 "GET /user/ramaguru HTTP/1.1" 301 0
+2022-12-10 02:24:39,267 DEBUG Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-10 02:24:39,573 DEBUG https://www.youtube.com:443 "GET /user/ramaguru HTTP/1.1" 404 None
+2022-12-10 02:24:39,880 DEBUG Starting new HTTPS connection (1): github.com:443
+2022-12-10 02:24:40,899 DEBUG https://github.com:443 "GET /ramaguru HTTP/1.1" 200 None
+2022-12-10 02:24:41,310 DEBUG Starting new HTTPS connection (1): stackoverflow.com:443
+2022-12-10 02:24:42,668 DEBUG https://stackoverflow.com:443 "GET /users/ramaguru HTTP/1.1" 404 None
+2022-12-10 02:24:43,052 DEBUG Starting new HTTPS connection (1): steamcommunity.com:443
+2022-12-10 02:24:43,523 DEBUG https://steamcommunity.com:443 "GET /id/ramaguru HTTP/1.1" 200 5799
+2022-12-10 02:24:43,716 DEBUG Starting new HTTPS connection (1): reddit.com:443
+2022-12-10 02:24:43,913 DEBUG https://reddit.com:443 "GET /user/ramaguru HTTP/1.1" 301 0
+2022-12-10 02:24:44,382 DEBUG Starting new HTTPS connection (1): www.reddit.com:443
+2022-12-10 02:24:47,580 DEBUG https://www.reddit.com:443 "GET /user/ramaguru HTTP/1.1" 200 None
+2022-12-10 02:24:48,398 INFO Performing Live search

@@ -1,19 +1,20 @@
-import smtplib
+from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
+from email.mime.image import MIMEImage
+from pathlib import Path
+import smtplib
 
-sender = 'admin@example.com'
-receivers = ['vinothpreethi16@gmail.com']
 
+message = MIMEMultipart()
+message["from"] = "modsouls@gmail.com"
+message["to"] = "vinothpreethi16@gmail.com"
+message["subject"] = "test"
+message.attach(MIMEText("Body"))
+message.attach(MIMEImage(Path("Image")))
 
-port = 1025
-msg = MIMEText('This is test mail')
-
-msg['Subject'] = 'Test mail'
-msg['From'] = sender
-msg['To'] = receivers
-
-with smtplib.SMTP('localhost', port) as server:
-    
-    # server.login('username', 'password')
-    server.sendmail(sender, receivers, msg.as_string())
-    print("Successfully sent email")
+with smtplib.SMTP(host="smtp.gmail.com",port=587) as smtp:
+    smtp.ehlo()
+    smtp.starttls()
+    smtp.login("Username","Password")
+    smtp.send_message(message)
+    print("Sent...")

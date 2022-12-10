@@ -1,7 +1,7 @@
 import snscrape.modules.twitter as snstwitter
 from colorama import Fore
 import time
-
+from subtools import omuser_search, omupi_search
 """ This module scrapes data from Twitter.
     Options:
     [1] Get information from an account based on the username
@@ -16,7 +16,7 @@ def scraping_options():
     print("[2] Scraping tweets based on text")
     print("[3] Scraping tweets from a specific user")
 
-    option = input("\nEnter your option (1,2,3 or 4): \t")
+    option = input("\nEnter your option (1,2 or 3): \t")
 
     if option == "1":
         scraping_a_specific_twitter_account()
@@ -40,6 +40,7 @@ def scraping_a_specific_twitter_account():
         print(f"[🔹]Total Followers: {profile_data.followersCount}")
         print(f"[🔹]Account Was Created on: {profile_data.created}")
         time.sleep(2)
+        omuser_search.omuser_search(username)
     except (AttributeError, ValueError):
         print(Fore.RED + f"We couldn't find {username} on Twitter")
 
@@ -52,8 +53,6 @@ def scraping_tweets_based_on_query():
     try:
         tweets_based_on_text = snstwitter.TwitterSearchScraper(text).get_items()
         for tweet in tweets_based_on_text:
-            counter += 1
-            printing_tweets(tweet, counter)
             counter += 1
             printing_tweets(tweet, counter)
             if counter == 100:
